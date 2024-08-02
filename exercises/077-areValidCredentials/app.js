@@ -1,1 +1,3 @@
-// Write your function here
+function areValidCredentials(name, pw) {
+    return name.length > 3 
+}
