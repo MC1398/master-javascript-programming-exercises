@@ -1,1 +1,3 @@
-// Write your function here
+function removeElement(arr, p) {
+    return arr.filter(elem => elem != p);
+}
